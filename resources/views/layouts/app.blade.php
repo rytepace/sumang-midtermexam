@@ -31,6 +31,7 @@
     <footer class="site-footer">
         <div class="wrap">
             <p>&copy; 2026 Web Development 3 Class. All rights reserved.</p>
+            <p>This page extends the master layout.</p>
         </div>
     </footer>
 </body>
